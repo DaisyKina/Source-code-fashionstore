@@ -1,0 +1,36 @@
+.total {
+    margin-top: '20px';
+    min-height: '100vh';
+    margin-top: 30vh;
+    margin-left: 45vh;
+    justify-content: center;
+
+}
+.sign-in{
+    margin-left: 40vh;
+    margin-bottom: 30px;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+.checkbox{
+    justify-content: right;
+    margin-right: 20vh;
+}
+.sign-in-box{
+    background-color: black;
+    width: 100px;
+    height: 50px;
+}
+.box-sign-in{
+    justify-content: center;
+    padding-left: 15vh;
+}
+.icon{
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    height: 4vh;
+    width: 4vh;
+}
